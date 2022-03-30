@@ -1,0 +1,36 @@
+table ,th,td{
+    border: 1px solid black;
+    border-spacing: 8px;
+}
+th,td{
+    padding: 10px 30px;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: left;
+}
+table caption{
+    caption-side: bottom;
+    font-size: 54px;
+    margin-top: 20px;
+}
+.table__wrapper{
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-size: 24px;
+}
+.bg_orange{
+    background-color: orange;
+}
+.bg_blue{
+    background-color: blue;
+}
+.bg_olive{
+    background-color: olivedrab;
+}
+ 
